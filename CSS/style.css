@@ -24,6 +24,12 @@
   margin: 0 auto;
 }
 
+.picture-container{
+  text-align: center;
+  width: 2000px;
+  margin: 0 auto;
+}
+
 .contact-me{
   text-align: center;
 }
